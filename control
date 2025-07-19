@@ -1,0 +1,9 @@
+Package: com.pxx917144686.pip
+Name: Aweme_PIP
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Aweme_PIP
+Maintainer: pxx917144686
+Author: pxx917144686
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
